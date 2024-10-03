@@ -1,5 +1,5 @@
 Đây là uml của bài tập lớn.
-![UML Diagram](uml.png)
+![UML Diagram](new UML.png)
 
 An English-to-Vietnamese dictionary with a full-fledged words' database.
 
