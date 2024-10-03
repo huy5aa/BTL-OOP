@@ -19,5 +19,5 @@ Delete words.
 
 Google Translate translate sentences (Both from English to Vietnamese and Vietnamese to English).
 
-Switching between Light Mode and Dark Mode (TokyoNight colorscheme).
+
 
