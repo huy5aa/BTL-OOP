@@ -48,3 +48,6 @@
      - `loadDictionary(fileName: String): void`
 
    **Lớp DictionaryGUI:**
+
+   ![Biểu đồ UML](image/UML.png)
+
