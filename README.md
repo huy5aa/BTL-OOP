@@ -26,13 +26,13 @@
 
    **Lớp Word:**
    - **Thuộc tính:**
-     - `english: String`
-     - `vietnamese: String`
-     - `partOfSpeech: String`
+     - `- english: String`
+     - `- vietnamese: String`
+     - `- partOfSpeech: String`
    - **Phương thức:**
-     - `getEnglish(): String`
-     - `getVietnamese(): String`
-     - `getPartOfSpeech(): String`
+     - `+ getEnglish(): String`
+     - `+ getVietnamese(): String`
+     - `+ getPartOfSpeech(): String`
 
    **Lớp FileHandler:**
    - **Phương thức:**
@@ -40,12 +40,12 @@
 
    **Lớp DictionaryManager:**
    - **Thuộc tính:**
-     - `englishToVietnamese: HashMap<String, Word>`
-     - `vietnameseToEnglish: HashMap<String, Word>`
+     - `+ englishToVietnamese: HashMap<String, Word>`
+     - `+ vietnameseToEnglish: HashMap<String, Word>`
    - **Phương thức:**
-     - `addWord(word: Word): void`
-     - `search(word: String, isEnglishToVietnamese: boolean): String`
-     - `loadDictionary(fileName: String): void`
+     - `+ addWord(word: Word): void`
+     - `+ search(word: String, isEnglishToVietnamese: boolean): String`
+     - `+ loadDictionary(fileName: String): void`
 
    **Lớp DictionaryGUI:**
 
