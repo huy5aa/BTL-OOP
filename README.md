@@ -28,7 +28,7 @@
    - **Thuộc tính:**
      - `- english: String`
      - `- vietnamese: String`
-     - `- partOfSpeech: String`
+     - `- partOfSpeech: String : loại từ`
    - **Phương thức:**
      - `+ getEnglish(): String`
      - `+ getVietnamese(): String`
