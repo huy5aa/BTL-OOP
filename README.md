@@ -12,6 +12,7 @@
    - Giao diện người dùng thân thiện và dễ sử dụng.
    - Xử lý lỗi khi không tìm thấy từ hoặc gặp sự cố khi tải tệp.
 
+
 2. Phân tích thiết kế ra lớp
 
    **Các lớp cần thiết:**
@@ -19,6 +20,7 @@
    - `FileHandler`: Lớp xử lý việc đọc và ghi tệp.
    - `DictionaryManager`: Lớp quản lý từ điển và các thao tác liên quan đến từ.
    - `DictionaryGUI`: Lớp tạo giao diện người dùng.
+
 
 3. Xây dựng biểu đồ lớp (UML)
 
