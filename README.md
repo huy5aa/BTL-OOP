@@ -47,7 +47,25 @@
      - `+ search(word: String, isEnglishToVietnamese: boolean): String`
      - `+ loadDictionary(fileName: String): void`
 
-   **Lớp DictionaryGUI:**
+  **Lớp SuggestionEngine:**
+  - **Thuộc tính:**
+    - `- dictionaryManager: DictionaryManager`
+    - `- suggestions: List<String>`
+  - **Phương thức:**
+    - `+ suggestWords(prefix: String): List<String>`
 
-   ![Biểu đồ UML](image/UML.png)
+  **Lớp History:**
+  - **Thuộc tính:**
+    - `- searchHistory: List<String>`
+  - **Phương thức:**
+    - `+ addToHistory(word: String): void`
+    - `+ getHistory(): List<String>`
+
+   **Lớp DictionaryGUI: bổ xung sau.**
+
+
+
+   
+
+   ![Biểu đồ UML](image/uml_version2.1.png)
 
