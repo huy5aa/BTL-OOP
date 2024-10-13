@@ -71,3 +71,7 @@
 
    ![Biểu đồ UML](image/uml_version2.1.png)
 
+  - **node**
+    - phiên âm
+    - từ đồng nghĩa  
+
