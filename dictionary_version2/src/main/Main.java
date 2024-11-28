@@ -4,10 +4,22 @@
  */
 package main;
 
+import gui.DictionaryGUI;
+import java.io.IOException;
+
 /**
  *
  * @author dangt
  */
-public class Main {
-    
+public class main {
+    public static void main(String[] args) {
+        DictionaryGUI gui = new DictionaryGUI();
+        gui.setVisible(true);
+
+        try {
+            gui.manager.loadDictionary("dictionary.txt");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }
