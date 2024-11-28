@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	D:\Desktop\baitapoop\dictionary\dic.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Desktop\baitapoop\dictionary\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	JRE
+Check launcher:	D:\Desktop\baitapoop\dictionary\JRE\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	D:\Desktop\baitapoop\dictionary\JRE\bin\javaw.exe
+Launcher args:	-jar "D:\Desktop\baitapoop\dictionary\dic.exe"
+Args length:	46/32768 chars
+Exit code:	0
