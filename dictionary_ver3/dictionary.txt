@@ -1,0 +1,319 @@
+hello|xin chào|noun
+goodbye | tạm biệt | noun
+run | chạy | verb
+hi | chào | interjection
+book | sách | noun
+read | đọc | verb
+water | nước | noun
+eat | ăn | verb
+friend | bạn | noun
+laugh | cười | verb
+happy | hạnh phúc | adjective
+sad | buồn | adjective
+play | chơi | verb
+work | làm việc | verb
+school | trường học | noun
+teach | dạy | verb
+learn | học | verb
+family | gia đình | noun
+love | yêu | verb
+car | xe hơi | noun
+travel | du lịch | verb
+city | thành phố | noun
+house | ngôi nhà | noun
+sing | hát | verb
+dance | nhảy | verb
+beautiful | đẹp | adjective
+quick | nhanh | adjective
+slow | chậm | adjective
+big | to | adjective
+small | nhỏ | adjective
+sun | mặt trời | noun
+moon | mặt trăng | noun
+star | ngôi sao | noun
+sky | bầu trời | noun
+tree | cái cây | noun
+flower | hoa | noun
+grass | cỏ | noun
+beach | bãi biển | noun
+mountain | núi | noun
+cold | lạnh | adjective
+hot | nóng | adjective
+rain | mưa | noun
+snow | tuyết | noun
+wind | gió | noun
+storm | bão | noun
+animal | động vật | noun
+dog | chó | noun
+cat | mèo | noun
+bird | chim | noun
+fish | cá | noun
+pet | thú cưng | noun
+food | thực phẩm | noun
+fruit | trái cây | noun
+vegetable | rau củ | noun
+cook | nấu ăn | verb
+bake | nướng | verb
+breakfast | bữa sáng | noun
+lunch | bữa trưa | noun
+dinner | bữa tối | noun
+coffee | cà phê | noun
+tea | trà | noun
+juice | nước trái cây | noun
+cake | bánh | noun
+cookie | bánh quy | noun
+sweet | ngọt | adjective
+sour | chua | adjective
+salty | mặn | adjective
+bitter | đắng | adjective
+healthy | khỏe mạnh | adjective
+doctor | bác sĩ | noun
+nurse | y tá | noun
+patient | bệnh nhân | noun
+medicine | thuốc | noun
+hospital | bệnh viện | noun
+emergency | khẩn cấp | noun
+funny | hài hước | adjective
+serious | nghiêm túc | adjective
+kind | tốt bụng | adjective
+angry | tức giận | adjective
+afraid | sợ hãi | adjective
+brave | dũng cảm | adjective
+smart | thông minh | adjective
+stupid | ngu ngốc | adjective
+quiet | im lặng | adjective
+loud | to | adjective
+bright | sáng | adjective
+dark | tối | adjective
+strong | mạnh mẽ | adjective
+weak | yếu | adjective
+rich | giàu có | adjective
+poor | nghèo | adjective
+clean | sạch | adjective
+dirty | bẩn | adjective
+friend | bạn bè | noun
+phone | điện thoại | noun
+internet | internet | noun
+computer | máy tính | noun
+keyboard | bàn phím | noun
+screen | màn hình | noun
+mouse | chuột | noun
+game | trò chơi | noun
+win | thắng | verb
+lose | thua | verb
+play | chơi | verb
+score | ghi điểm | verb
+team | đội | noun
+match | trận đấu | noun
+sport | thể thao | noun
+coach | huấn luyện viên | noun
+player | cầu thủ | noun
+exercise | tập thể dục | verb
+train | luyện tập | verb
+swim | bơi | verb
+run | chạy | verb
+jump | nhảy | verb
+throw | ném | verb
+catch | bắt | verb
+kick | đá | verb
+hit | đánh | verb
+fight | đánh nhau | verb
+win | thắng lợi | verb
+loss | thất bại | noun
+trophy | cúp | noun
+medal | huy chương | noun
+athlete | vận động viên | noun
+competition | cuộc thi | noun
+race | cuộc đua | noun
+tournament | giải đấu | noun
+stadium | sân vận động | noun
+audience | khán giả | noun
+cheer | cổ vũ | verb
+shout | la hét | verb
+whistle | huýt sáo | verb
+clap | vỗ tay | verb
+sing | hát | verb
+dance | nhảy múa | verb
+art | nghệ thuật | noun
+painting | tranh vẽ | noun
+sculpture | điêu khắc | noun
+music | âm nhạc | noun
+song | bài hát | noun
+band | ban nhạc | noun
+concert | buổi hòa nhạc | noun
+musician | nhạc sĩ | noun
+actor | diễn viên | noun
+movie | phim | noun
+film | điện ảnh | noun
+theater | rạp hát | noun
+stage | sân khấu | noun
+performance | buổi biểu diễn | noun
+script | kịch bản | noun
+rehearsal | buổi tổng duyệt | noun
+drama | kịch | noun
+comedy | hài kịch | noun
+tragedy | bi kịch | noun
+character | nhân vật | noun
+story | câu chuyện | noun
+plot | cốt truyện | noun
+dialogue | đối thoại | noun
+scene | cảnh | noun
+camera | máy ảnh | noun
+photo | bức ảnh | noun
+picture | hình ảnh | noun
+video | video | noun
+edit | chỉnh sửa | verb
+direct | đạo diễn | verb
+produce | sản xuất | verb
+create | tạo ra | verb
+design | thiết kế | verb
+develop | phát triển | verb
+plan | kế hoạch | noun
+project | dự án | noun
+budget | ngân sách | noun
+timeline | thời gian biểu | noun
+team | nhóm | noun
+leader | người lãnh đạo | noun
+meeting | cuộc họp | noun
+discuss | thảo luận | verb
+brainstorm | động não | verb
+idea | ý tưởng | noun
+concept | khái niệm | noun
+goal | mục tiêu | noun
+strategy | chiến lược | noun
+approach | cách tiếp cận | noun
+solution | giải pháp | noun
+problem | vấn đề | noun
+challenge | thử thách | noun
+success | thành công | noun
+failure | thất bại | noun
+risk | rủi ro | noun
+opportunity | cơ hội | noun
+growth | phát triển | noun
+change | thay đổi | noun
+future | tương lai | noun
+past | quá khứ | noun
+present | hiện tại | noun
+time | thời gian | noun
+hour | giờ | noun
+minute | phút | noun
+second | giây | noun
+day | ngày | noun
+week | tuần | noun
+month | tháng | noun
+year | năm | noun
+season | mùa | noun
+spring | mùa xuân | noun
+summer | mùa hè | noun
+autumn | mùa thu | noun
+winter | mùa đông | noun
+weather | thời tiết | noun
+climate | khí hậu | noun
+temperature | nhiệt độ | noun
+humidity | độ ẩm | noun
+forecast | dự báo | noun
+sunshine | ánh nắng | noun
+rain | mưa | noun
+snow | tuyết | noun
+wind | gió | noun
+storm | bão | noun
+happy | hạnh phúc | adjective
+hat | mũ | noun
+house | ngôi nhà | noun
+heart | trái tim | noun
+hair | tóc | noun
+hand | tay | noun
+high | cao | adjective
+heavy | nặng | adjective
+hot | nóng | adjective
+cold | lạnh | adjective
+helpful | hữu ích | adjective
+hope | hy vọng | noun
+hug | ôm | verb
+hunt | săn | verb
+host | chủ nhà | noun
+holiday | ngày lễ | noun
+honest | trung thực | adjective
+homework | bài tập về nhà | noun
+hospital | bệnh viện | noun
+heat | nhiệt | noun
+height | chiều cao | noun
+habit | thói quen | noun
+hurry | vội vàng | verb
+highlight | điểm nhấn | noun
+horizon | đường chân trời | noun
+history | lịch sử | noun
+harvest | thu hoạch | noun
+hero | anh hùng | noun
+home | nhà | noun
+humble | khiêm tốn | adjective
+happiness | hạnh phúc | noun
+harmony | hòa hợp | noun
+houseplant | cây trong nhà | noun
+hammock | võng | noun
+helicopter | trực thăng | noun
+historian | nhà sử học | noun
+hydration | sự cung cấp nước | noun
+hike | đi bộ đường dài | verb
+hammock | cái võng | noun
+heatwave | đợt nắng nóng | noun
+household | hộ gia đình | noun
+humanitarian | nhân đạo | adjective
+hairstyle | kiểu tóc | noun
+highlight | điểm nổi bật | noun
+hormone | hormone | noun
+hostility | sự thù địch | noun
+hindrance | trở ngại | noun
+harvest | mùa thu hoạch | noun
+hierarchy | thứ bậc | noun
+holocaust | thảm họa diệt chủng | noun
+hobby | sở thích | noun
+horror | kinh dị | noun
+hypothesis | giả thuyết | noun
+hover | lơ lửng | verb
+hope | hy vọng | noun
+hurt | làm tổn thương | verb
+hasty | vội vàng | adjective
+harsh | khắc nghiệt | adjective
+habitat | môi trường sống | noun
+health | sức khỏe | noun
+hazardous | nguy hiểm | adjective
+heavenly | thiên đường | adjective
+habitual | thường xuyên | adjective
+horde | bầy, đám đông | noun
+haughty | kiêu ngạo | adjective
+hallow | thánh hóa | verb
+harbor | bến cảng | noun
+helix | xoắn ốc | noun
+hind | phía sau | adjective
+hollow | rỗng | adjective
+habitual | thói quen | adjective
+havoc | tàn phá | noun
+haphazard | ngẫu nhiên | adjective
+handkerchief | khăn tay | noun
+homebound | trở về nhà | adjective
+headstrong | bướng bỉnh | adjective
+handbook | sách hướng dẫn | noun
+heartwarming | ấm lòng | adjective
+hearse | xe tang | noun
+hijack | cướp | verb
+hierarchy | hệ thống phân cấp | noun
+hiatus | khoảng thời gian gián đoạn | noun
+hedonistic | chủ nghĩa khoái lạc | adjective
+humiliate | làm nhục | verb
+hallucination | ảo giác | noun
+hunch | linh cảm | noun
+hustle | làm việc chăm chỉ | verb
+hiatus | gián đoạn | noun
+humor | sự hài hước | noun
+homogeneous | đồng nhất | adjective
+harbinger | người báo trước | noun
+hysterical | điên cuồng | adjective
+hydrangea | hoa cẩm tú cầu | noun
+hyperactive | hiếu động | adjective
+hypothesis | giả thuyết | noun
+haphazard | ngẫu nhiên | adjective
+halt | dừng lại | verb
+haphazardly | một cách ngẫu nhiên | adverb
+homey | ấm cúng | adjective
+honorable | đáng tôn trọng | adjective
