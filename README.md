@@ -36,10 +36,6 @@
      - `+ getVietnamese(): String`
      - `+ getPartOfSpeech(): String`
 
-   **Lớp FileHandler:**
-   - **Phương thức:**
-     - `loadFromFile(fileName: String): List<Word>`
-
    **Lớp DictionaryManager:**
    - **Thuộc tính:**
      - `+ englishToVietnamese: HashMap<String, Word>`
@@ -52,9 +48,8 @@
   **Lớp SuggestionEngine:**
   - **Thuộc tính:**
     - `- dictionaryManager: DictionaryManager`
-    - `- suggestions: List<String>`
   - **Phương thức:**
-    - `+ suggestWords(prefix: String): List<String>`
+    - `+ getsuggestWords(prefix: String): List<String>`
 
   **Lớp History:**
   - **Thuộc tính:**
@@ -63,7 +58,7 @@
     - `+ addToHistory(word: String): void`
     - `+ getHistory(): List<String>`
 
-   **Lớp DictionaryGUI: bổ xung sau.**
+   **Lớp DictionaryGUI **
 
 
 
