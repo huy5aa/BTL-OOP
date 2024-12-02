@@ -115,7 +115,7 @@ Dưới đây là mô tả về biểu đồ lớp UML cho dự án từ điển
 
 ---
 
-![Biểu đồ UML](image/uml_version2.1.png)
+![Biểu đồ UML](image/final_UML_version.png)
 
 ---
 
