@@ -1,6 +1,7 @@
 package dictionary;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class SuggestionEngine {
@@ -31,6 +32,7 @@ public class SuggestionEngine {
                 }
             }
         }
+        Collections.sort(suggestions);
 
         return suggestions; // Trả về danh sách gợi ý từ
     }
