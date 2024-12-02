@@ -11,21 +11,37 @@
    - Hiệu suất tìm kiếm phải nhanh (độ phức tạp O(1)).
    - Giao diện người dùng thân thiện và dễ sử dụng.
    - Xử lý lỗi khi không tìm thấy từ hoặc gặp sự cố khi tải tệp.
+   - Kiểm tra lại kiến thức người dùng.
 
 
 2. Phân tích thiết kế ra lớp
 
    **Các lớp cần thiết:**
+   Đối với dictionary package
    - `Word`: Lớp đại diện cho một từ trong từ điển.
-   - `FileHandler`: Lớp xử lý việc đọc và ghi tệp.
    - `DictionaryManager`: Lớp quản lý từ điển và các thao tác liên quan đến từ.
+   - `History`: Lớp có chức năng lưu lại lịch sử search.
+   - `SuggestionEngin`: Lớp đưa ra gợi ý khi nhập.
    - `DictionaryGUI`: Lớp tạo giao diện người dùng.
+  Đối với memorytest package
+  - `MemoryTestManager`: Lớp quản lý từ cần kiểm tra và các thao tác liên quan đến từ.
+  - `FaceFrame`: Lớp quản lý giao diện trước khi test.
+  - `memorygui`: Lớp quản lý giao diện trong khi test.
 
-
-3. Xây dựng biểu đồ lớp (UML)
+4. Xây dựng biểu đồ lớp (UML)
 
    Dưới đây là mô tả về biểu đồ lớp UML cho dự án từ điển:
-
+   Đối với dictionary package:
+   **interface manager:**
+   - **Phương thức:**
+     - `+ addWord(word : Word): void`
+     - `+ search(word : String, isEnglishToVietnamese : boolean): String`
+     - `+ loadDictionary(filename : String): void`
+     - `+ getEnglishWord: List<String>`
+     - `+ getVietnameseWord: List<String>`
+     - `- loadFromFile( filename : String): List<Word>`
+     - `+ getMapEnglishWords: HashMap<String,Word>`
+     - `+ getMapVietnameseWords: HashMap<String,Word>`
    **Lớp Word:**
    - **Thuộc tính:**
      - `- english: String`
@@ -41,9 +57,14 @@
      - `+ englishToVietnamese: HashMap<String, Word>`
      - `+ vietnameseToEnglish: HashMap<String, Word>`
    - **Phương thức:**
-     - `+ addWord(word: Word): void`
-     - `+ search(word: String, isEnglishToVietnamese: boolean): String`
-     - `+ loadDictionary(fileName: String): void`
+     - `+ addWord(word : Word): void`
+     - `+ search(word : String, isEnglishToVietnamese : boolean): String`
+     - `+ loadDictionary(filename : String): void`
+     - `+ getEnglishWord: List<String>`
+     - `+ getVietnameseWord: List<String>`
+     - `- loadFromFile( filename : String): List<Word>`
+     - `+ getMapEnglishWords: HashMap<String,Word>`
+     - `+ getMapVietnameseWords: HashMap<String,Word>`
 
   **Lớp SuggestionEngine:**
   - **Thuộc tính:**
@@ -57,10 +78,27 @@
   - **Phương thức:**
     - `+ addToHistory(word: String): void`
     - `+ getHistory(): List<String>`
+   **Lớp DictionaryGui: Dùng để sử lý giao diện**
 
-   **Lớp DictionaryGUI **
+Đối với memorytest package
 
-
+   **Lớp MemoryTestManager:**
+   - **Thuộc tính:**
+     - `+ englishToVietnamese: HashMap<String, Word>`
+     - `+ vietnameseToEnglish: HashMap<String, Word>`
+   - **Phương thức:**
+     - `+ addWord(word : Word): void`
+     - `+ search(word : String, isEnglishToVietnamese : boolean): String`
+     - `+ loadDictionary(filename : String): void`
+     - `+ getEnglishWord: List<String>`
+     - `+ getVietnameseWord: List<String>`
+     - `- loadFromFile( filename : String): List<Word>`
+     - `+ getMapEnglishWords: HashMap<String,Word>`
+     - `+ getMapVietnameseWords: HashMap<String,Word>`
+    
+  **Lớp FaceFrame: dùng để sử lý giao diện chọn test oppion**
+  
+  **Lớp memorygui: dùng để sử lý giao diện trong khi test**
 
    
 
