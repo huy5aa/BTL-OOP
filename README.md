@@ -119,3 +119,4 @@ Dưới đây là mô tả về biểu đồ lớp UML cho dự án từ điển
 
 ---
 
+[Báo cáo Bài tập lớn](https://docs.google.com/document/d/1VWQWX-wsYDkCvzyw9HIFns0mFBhszAuL/edit)
